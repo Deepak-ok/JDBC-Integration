@@ -16,7 +16,7 @@ UPDATE and DELETE on a `students` table through a DAO class, using
 
 ```
 JdbcIntegration/
-├── src/main/java/com/weintern/jdbc/
+├── src/main/java/com/jdbc/
 │   ├── Main.java                # console menu to exercise all CRUD ops
 │   ├── Student.java             # simple record (id, name, age, grade)
 │   ├── DatabaseConnection.java  # getConnection() — update your credentials here
